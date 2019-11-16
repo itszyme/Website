@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573935258964.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ED5B464",
+    "lastKnownWriteTime" : 1573935400,
+    "last_content_update" : 1573935400511,
+    "path" : "~/Documents/R_Projects/Website_Yu/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "7,17",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
